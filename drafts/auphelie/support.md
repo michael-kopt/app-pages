@@ -1,12 +1,10 @@
 # Auphelie support
 
-Draft for review — prepared 30 October 2026. Not published.
-
 Auphelie plays your own audiobooks from local folders or a compatible Audiobookshelf server. Audiobooks and server hosting are not included.
 
 ## Contact
 
-Email Michael Kopt at [michael.kopt@outlook.cz](mailto:michael.kopt@outlook.cz) for help or to report a problem. Include your device model, operating system, Auphelie version/build, whether the problem concerns a local or server library, the steps that led to it and what you expected. No response-time commitment is made.
+Email Michael Kopt at [michaelkopt.apps@outlook.cz](mailto:michaelkopt.apps@outlook.cz) for help or to report a problem. Include your device model, operating system, Auphelie version/build, whether the problem concerns a local or server library, the steps that led to it and what you expected. No response-time commitment is made.
 
 Avoid sending passwords, access tokens, custom authentication headers, private server addresses or copyrighted audio. Redact personal information and book/server details from screenshots and logs before sending. Describe a file's format and behavior first; send sample files only when you have permission and after agreeing a safe handoff.
 
@@ -24,7 +22,7 @@ If a book will not play, try another supported file and note whether the issue f
 
 ## Privacy and removing a connection
 
-Read the [privacy policy draft](privacy.md) for local storage, server requests and support email handling. Disconnecting removes local server connection secrets and sources; it does not delete the remote account or its records. Contact the server operator for remote account/data deletion. Email the publisher for questions or deletion requests concerning support correspondence. No universal deletion or retention guarantee is made.
+Read the [privacy policy](privacy.md) for local storage, server requests and support email handling. Disconnecting removes local server connection secrets and sources; it does not delete the remote account or its records. Contact the server operator for remote account/data deletion. Email the publisher for questions or deletion requests concerning support correspondence. No universal deletion or retention guarantee is made.
 
 ## Content and accessibility
 

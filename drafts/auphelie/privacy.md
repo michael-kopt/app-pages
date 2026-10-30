@@ -1,7 +1,5 @@
 # Auphelie privacy policy
 
-Draft for review — prepared 30 October 2026. Not published or effective.
-
 Auphelie is a personal audiobook player published by Michael Kopt. You choose your own local files or connect to an Audiobookshelf server. Auphelie does not supply audiobooks or operate an audiobook hosting service.
 
 ## Information on your device
@@ -18,11 +16,11 @@ Your server operator controls its accounts, content, logs, backups, retention an
 
 ## Diagnostics, advertising and tracking
 
-The intended standard store Release does not enable the optional development telemetry instrumentation. This draft proposes no advertising, cross-service tracking or sale of personal data. Diagnostic or telemetry-enabled builds need separate disclosure before distribution; this policy draft must not be taken as a description of every development build. Device operating systems and app stores may separately process diagnostics under their own settings and policies.
+This policy describes the standard store Release configuration, which does not enable the optional development telemetry instrumentation. Diagnostic or telemetry-enabled builds may handle additional data and require separate disclosures; this policy does not describe every development build. Device operating systems and app stores may separately process diagnostics under their own settings and policies.
 
 ## Support correspondence
 
-If you email michael.kopt@outlook.cz, Michael Kopt receives your email address, message and any attachments you send. The email provider also processes that correspondence to deliver and store it. We use your message to investigate and respond to your request. Do not send passwords, tokens, custom authentication headers or private book files. A fixed mailbox or backup retention period has not been established for this draft. You may use the same address to request deletion of support correspondence; any applicable retention limitations must be explained when handling that request.
+If you email michaelkopt.apps@outlook.cz, Michael Kopt receives your email address, message and any attachments you send. The email provider also processes that correspondence to deliver and store it. We use your message to investigate and respond to your request. Do not send passwords, tokens, custom authentication headers or private book files. You may use the same address to ask about retention or request deletion of support correspondence. Email-provider backups and applicable retention requirements may limit immediate deletion.
 
 ## Your choices and deletion
 
@@ -30,8 +28,8 @@ You can use local libraries without connecting a server. You can remove library 
 
 ## Children and content
 
-The proposed audience is general teen and adult listeners. Auphelie does not curate a children's catalog, filter book content or verify listener age. Books, artwork and metadata supplied by you or your server can contain mature material. Choose libraries appropriate for the listener.
+Auphelie is a general-purpose audiobook player. Auphelie does not curate a children's catalog, filter book content or verify listener age. Books, artwork and metadata supplied by you or your server can contain mature material. Choose libraries appropriate for the listener.
 
 ## Changes and contact
 
-Review this page for changes when app data practices change. A publication/effective date will be added only after approval and deployment. For questions about Auphelie privacy or support correspondence, contact Michael Kopt at michael.kopt@outlook.cz. For a connected server's data, contact its operator.
+This page describes Auphelie's data handling; check the last-updated date when reviewing it. For questions about Auphelie privacy or support correspondence, contact Michael Kopt at michaelkopt.apps@outlook.cz. For a connected server's data, contact its operator.
